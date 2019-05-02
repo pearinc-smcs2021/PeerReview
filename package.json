@@ -1,0 +1,17 @@
+{
+  "name": "PeerReview",
+  "version": "1.0.0",
+  "main": "student/index.js",
+  "repository": "https://github.com/pearinc-smcs2021/PeerReview.git",
+  "author": "rbhog <rbhogavilli@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-api": "^3.6.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
